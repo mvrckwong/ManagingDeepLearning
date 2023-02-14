@@ -1,0 +1,50 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.10.10",
+    "heartbeatAt": "2023-02-14T14:30:34.778796",
+    "startedAt": "2023-02-14T14:30:33.924607",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\Marc Wong\\OneDrive\\Documents\\GitHub\\ManagingDeepLearning\\main.py",
+    "codePath": "main.py",
+    "git": {
+        "remote": "https://github.com/mavwong/ManagingDeepLearning.git",
+        "commit": "36ae5cfe104c2d8f978ba9c19b5b720eab4c8c13"
+    },
+    "email": "mvrck.wong@gmail.com",
+    "root": "C:/Users/Marc Wong/OneDrive/Documents/GitHub/ManagingDeepLearning",
+    "host": "DESKTOP-GTRPGEL",
+    "username": "Marc Wong",
+    "executable": "C:\\Users\\Marc Wong\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3701.0,
+        "min": 0.0,
+        "max": 3701.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3701.0,
+            "min": 0.0,
+            "max": 3701.0
+        }
+    ],
+    "disk": {
+        "total": 222.50189971923828,
+        "used": 136.57830047607422
+    },
+    "gpu": "NVIDIA GeForce RTX 2060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 31.917659759521484
+    }
+}
